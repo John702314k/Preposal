@@ -4,7 +4,7 @@
 
  - I want to make a scene game about slice of life
  - I will be using Renpy and pygame engine for this project
- - another idea, is I'm going to make a spaceship battle with random enemies coming, just in case I'm short of time. the challege become harder as it receives specific score. 
+ - another idea, is I'm going to make a spaceship battle with random enemies coming, just in case I'm short of time. the challege become harder as it goes to a specific score. 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
