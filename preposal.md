@@ -8,7 +8,7 @@
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
- - I plan to collaborate with anyone
+ - I don't plan to collaborate with anyone
 
 ## Do you have any questions of your own?
 
